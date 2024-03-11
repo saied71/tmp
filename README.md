@@ -1,4 +1,4 @@
-<img alt="Header" src="header_image.png">
+<img alt="Header" src="favicon.ico">
 
 I grew up in the [***Eastern Sierras***  in California](https://goo.gl/maps/LGFQESQJ6krn6SzM6), spent a few years in Connecticut at boarding school (Go Bearcats!), then came back to the West Coast for my undergraduate work in ***Industrial Engineering and Operations Research*** at the **University of California, Berkeley**, where I recently graduated (Go Bears! 🐻).
 
