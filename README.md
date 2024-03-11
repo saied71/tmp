@@ -7,7 +7,8 @@ I usually like to work with data science, machine learning, optimization/mathema
 When not behind the keyboard, you can catch me out mountain biking, playing a disc sport (Ultimate Frisbee or Disc Golf 🥏), messing around with music (production 🎼, DJing 🎧,or playing piano 🎹), or spending some sort of time with friends and loved ones. 
 
  > Reach out, it would be great to hear from you and maybe we could even develop some good personal or professional ties. 😊
->  <a href="mailto:saied.alimoradi@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335?style=social&logo=gmail"/> </a><a href="https://www.linkedin.com/in/saied-alimoradi-197015171/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://medium.com/@saied.alimoradi" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+
+>  <a href="mailto:saied.alimoradi@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&labelColor=%23EA4335"/> </a><a href="https://www.linkedin.com/in/saied-alimoradi-197015171/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://medium.com/@saied.alimoradi" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 ---
 
