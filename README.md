@@ -1,10 +1,8 @@
 <img alt="Header" src="favicon.ico">
 
-I grew up in the [***Eastern Sierras***  in California](https://goo.gl/maps/LGFQESQJ6krn6SzM6), spent a few years in Connecticut at boarding school (Go Bearcats!), then came back to the West Coast for my undergraduate work in ***Industrial Engineering and Operations Research*** at the **University of California, Berkeley**, where I recently graduated (Go Bears! 🐻).
+Embarking on a journey through the realm of Machine Learning, I’ve discovered a profound connection with the symphony of algorithms and human expression 🎼. My professional path is deeply intertwined with Natural Language Processing (NLP), where I’ve dedicated myself to the delicate task of enhancing human-computer dialogue 💬. It’s in this domain, amidst the rich tapestry of LLMs and diverse models, that I’ve crafted impactful solutions to bring us closer to our digital counterparts. Founding [Khodnevis](https://khodnevisai.com/), the first Persian AI copywriter, has been a labor of love, blending my passion for language with the finesse of artificial intelligence.
 
-I usually like to work with data science, machine learning, optimization/mathematical-programming, or similar fields, however I am *agnostically curious* when it comes to computers, mathematics, and computer science and am happy to collaborate on projects across any of those disciplines. 
-
-When not behind the keyboard, you can catch me out mountain biking, playing a disc sport (Ultimate Frisbee or Disc Golf 🥏), messing around with music (production 🎼, DJing 🎧,or playing piano 🎹), or spending some sort of time with friends and loved ones. 
+Entrepreneurship has painted my world with challenges, each one a unique opportunity to blend the latest technologies with a human-centric approach to problem-solving 🧩. My expertise extends beyond the binary; it’s about weaving empathy and insight into our digital narratives, ensuring that every solution not only solves but also connects 🌐🤝.
 
  Reach me at saied.alimoradi@gmai.com
 
